@@ -37,7 +37,7 @@ The final state of this file should be as follows (replacing my information with
 Micayla Handler
 
 ## My github username is:
-micahand
+micaylarain
 
 ## I have installed the software on my computer as a part of the exercise
 '''
